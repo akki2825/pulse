@@ -1,0 +1,7 @@
+<service>
+<id>PulseAudio</id>
+<name>PulseAudio</name>
+<description>Runs a PulseAudio Daemon to give audio to WSL2</description>
+<executable>C:\pulse\pulseaudio.exe</executable>
+<arguments>-F C:\pulse\config.pa --exit-idle-time=-1</arguments>
+</service>

@@ -1,0 +1,29 @@
+2023-04-26 15:59:15,200 DEBUG - Starting WinSW in console mode
+2023-04-26 15:59:15,250 INFO  - Installing service 'PulseAudio (PulseAudio)'...
+2023-04-26 15:59:15,258 ERROR - A service with ID 'PulseAudio' already exists.
+2023-04-26 15:59:15,261 FATAL - Failed to install the service. 指定されたサービスは既に開始されています。
+2023-04-26 16:00:31,955 DEBUG - Starting WinSW in console mode
+2023-04-26 16:00:32,013 INFO  - Installing service 'PulseAudio (PulseAudio)'...
+2023-04-26 16:00:32,021 ERROR - A service with ID 'PulseAudio' already exists.
+2023-04-26 16:00:32,035 FATAL - Failed to install the service. 指定されたサービスは既に開始されています。
+2023-04-26 16:02:54,914 DEBUG - Starting WinSW in console mode
+2023-04-26 16:02:54,968 INFO  - Installing service 'PulseAudio (PulseAudio)'...
+2023-04-26 16:02:54,975 ERROR - A service with ID 'PulseAudio' already exists.
+2023-04-26 16:02:54,978 FATAL - Failed to install the service. 指定されたサービスは既に開始されています。
+2023-04-26 16:03:17,947 DEBUG - Starting WinSW in service mode
+2023-04-26 16:04:07,115 DEBUG - Starting WinSW in console mode
+2023-04-26 16:04:07,191 INFO  - Installing service 'PulseAudio (PulseAudio)'...
+2023-04-26 16:04:07,255 INFO  - Service 'PulseAudio (PulseAudio)' was installed successfully.
+2023-04-26 16:15:24,525 DEBUG - Starting WinSW in service mode
+2023-04-26 16:15:24,783 INFO  - Starting C:\pulse\pulseaudio.exe -F C:\pulse\config.pa --exit-idle-time=-1
+2023-04-26 16:15:24,842 INFO  - Started process 6944
+2023-04-26 16:15:24,868 DEBUG - Forwarding logs of the process System.Diagnostics.Process (pulseaudio) to WinSW.DefaultLogAppender
+2023-04-26 16:15:55,778 INFO  - Stopping PulseAudio
+2023-04-26 16:15:55,780 DEBUG - ProcessKill 6944
+2023-04-26 16:15:55,792 DEBUG - Stopping process 6944...
+2023-04-26 16:15:55,872 DEBUG - Process 6944 canceled with code 0.
+2023-04-26 16:15:55,882 INFO  - Finished PulseAudio
+2023-04-26 16:17:17,998 DEBUG - Starting WinSW in service mode
+2023-04-26 16:17:18,350 INFO  - Starting C:\pulse\pulseaudio.exe -F C:\pulse\config.pa --exit-idle-time=-1
+2023-04-26 16:17:18,393 INFO  - Started process 17836
+2023-04-26 16:17:18,418 DEBUG - Forwarding logs of the process System.Diagnostics.Process (pulseaudio) to WinSW.DefaultLogAppender
